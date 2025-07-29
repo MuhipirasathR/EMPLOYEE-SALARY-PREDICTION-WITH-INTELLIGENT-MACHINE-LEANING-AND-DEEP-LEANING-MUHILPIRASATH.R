@@ -1,0 +1,2 @@
+# EMPLOYEE-SALARY-PREDICTION-WITH-INTELLIGENT-MACHINE-LEANING-AND-DEEP-LEANING-MUHILPIRASATH.R
+💼 EMPLOYEE SALARY PREDICTION WITH INTELLIGENT MACHINE LEANING AND DEEP LEANING   This project is a Machine Learning + Deep Learning based web app that classifies whether an employee earns more than ₹50K or less than or equal to ₹50K per month based on various personal and professional attributes like age, education, experience, and job role.
